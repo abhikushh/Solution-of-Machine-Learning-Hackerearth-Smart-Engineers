@@ -12,3 +12,7 @@ The training data includes ambient variables along with Net daily electrical ene
 
 The variables are given without normalization.
 
+Predictive algorithm - Support Vector Machine Algorithm
+
+Result - Under top 50th position , Score - 94.3
+
